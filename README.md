@@ -1,6 +1,6 @@
-# Basic Dutch Auction - Assignment 4
+# Basic Dutch Auction 
 ### Name: Arjun Raja Yogidas
-### NUID: 002964082
+
 
 The NFTDutchAuction_ERC20Bids.sol contract works as follows:
 
